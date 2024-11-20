@@ -1,0 +1,2 @@
+# AdaptiveText
+Python project
