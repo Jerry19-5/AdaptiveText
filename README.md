@@ -1,5 +1,3 @@
-# AdaptiveText
-Python project
-#Face Landmark detection
-#FaceMesh
-#Most conctrated on eye Landmarks
+# Adaptive Text Project
+
+This project dynamically adjusts text size based on the user's distance from the screen, enhancing readability for far-sighted individuals.
