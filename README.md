@@ -1,6 +1,6 @@
 # Adaptive Text Project
 
-This project dynamically adjusts text size based on the user's distance from the screen, enhancing readability for far-sighted individuals.
+This project dynamically adjusts text size based on the user's distance from the screen, enhancing readability for impairment individuals.
 
 #Features
 =Real-time user distance detection using MediaPipe.
